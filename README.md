@@ -3,9 +3,9 @@ b170
 
 B170网址导航程序  
 
-###特性
+####Features
 
-##文档
+####Document
 
-##许可协议
-GPL V2
+####License
+GNU GENERAL PUBLIC LICENSE Version 2.0(GPL V2)
